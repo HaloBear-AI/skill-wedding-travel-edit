@@ -1,4 +1,0 @@
-interface:
-  display_name: "婚礼和旅拍视频剪辑"
-  short_description: "分别为婚礼快剪与旅拍短片选片、设计声音，并交付横竖两个版本"
-  default_prompt: "用 $wedding-travel-edit 根据我的素材和现场录音，制作婚礼快剪或旅拍短片的横竖版。"
